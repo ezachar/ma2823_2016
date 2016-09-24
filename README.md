@@ -1,3 +1,5 @@
+This repository has been forked from https://github.com/chagaz/ma2823_2016
+
 # ma2823_2016
 Foundations of Machine Learning course at CentraleSupelec (Fall 2016)  
 Instructor: Chloé-Agathe Azencott  
